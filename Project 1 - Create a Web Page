@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Lee's Notes</title>
+</head>
+<body>
+<p><b>World Wide Web </b></p>
+<p>The World Wide Web is a collection of computers that can communicate with each other to share html and source files for other computers on the WWW to view.</p>
+<p>&nbsp;</p>
+<p><b>Major Pieces of the Web</b></p>
+<ul type="disc">
+  <li>You</li>
+  <li>Your       Computer + Browser</li>
+  <li>The       Internet</li>
+  <li>Servers</li>
+</ul>
+<p><b>HTML is</b></p>
+<ul type="disc">
+  <li>Text content - What you see</li>
+  <li>Markup – Code to display</li>
+  <li>References to other documents – e.g. images &amp; videos</li>
+  <li>Links to other pages</li>
+</ul>
+<p><strong>Parts of HTML</strong></p>
+<ul>
+  <li><b><em>Tags</em></b> - Opened and closed with &lt; &amp; &gt; respectively. </li>
+  <li><b><em>Elements</em></b> - Everything from an opening tag to it's closing tag, with everything in between. </li>
+</ul>
+<p><b>Inline &amp; Block Elements</b></p>
+<p>Some elements can be &quot;inline&quot; which meants they would go along in a sentance as if it was a word. Others can be &quot;block&quot; which means that the computer sees it as having its own space and breaks out of the line to put a box around it.</p>
+<p>&nbsp;</p>
+</body>
+</html>
